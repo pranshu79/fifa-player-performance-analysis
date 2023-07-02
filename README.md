@@ -31,7 +31,7 @@
 <!-- Project Objective -->
 ## Project Objective
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://cdn.discordapp.com/attachments/1112761459861098507/1120807604877271150/Screenshot_2023-06-21_at_1.38.42_AM.png))
 
 The goal of this competition is to leverage data analysis, machine learning, and statistical modeling techniques to gain valuable insights into player performance, trends, and potential.
 
