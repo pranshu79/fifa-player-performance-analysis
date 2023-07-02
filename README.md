@@ -11,7 +11,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Project Objective">Project Objective</a>
+      Project Objective
       <ul>
         <li><a href="#built-with">Technologies Used</a></li>
       </ul>
@@ -29,9 +29,8 @@
 </details>
 
 <!-- Project Objective -->
+<a name="Project Objective"></a>
 ## Project Objective
-
-[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://cdn.discordapp.com/attachments/1112761459861098507/1120807604877271150/Screenshot_2023-06-21_at_1.38.42_AM.png))
 
 The goal of this competition is to leverage data analysis, machine learning, and statistical modeling techniques to gain valuable insights into player performance, trends, and potential.
 
@@ -85,7 +84,7 @@ Feature selection is done through lasso regression.
 
 
 ## Model
-
+<a name="Model"></a>
 After trying out serveral different models I found out Random Forest Regressor to be the best model providing me the least Rmse score which is my evaluation metric and no other model like XGBoostRegressor or ANN was even close to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
