@@ -1,5 +1,5 @@
 <div align = "center">
-  <h3 align="center">Fifa Player Performance Analysis</h3>
+  <h1 align="center">Fifa Player Performance Analysis</h3>
   <p align="center">
     Analysis of performance of FIFA players across multiple years, from FIFA 17 through FIFA 22.
     <br />
