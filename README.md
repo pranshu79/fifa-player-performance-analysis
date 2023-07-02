@@ -71,7 +71,7 @@ For treatment of missing values I have plotted graphs that shows the relationshi
 Inference from the graph:
 1. for some of the features the mean of target variable (Value) is 0 for missing values which may be due to the lack of information that we get from missing values so we dropped those rows and made a observation that if those features contains null values in test set then Value must be zero.
   
-2. for the left out features i have done multivariate iterative imputation.
+2. for the left out features i have done univariate imputation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,8 +99,8 @@ After trying out serveral different models I found out Random Forest Regressor t
   </tr>
   <tr>
     <td>Random Forest Regressor</td>
-    <td></td>
-    <td></td>
+    <td>401547.06</td>
+    <td>2748736.90</td>
   </tr>
 </table>
 
