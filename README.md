@@ -89,7 +89,7 @@ After trying out serveral different models I found out Random Forest Regressor t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Model
+## Evaluation Metric
 
 <table>
   <tr>
